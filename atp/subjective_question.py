@@ -1,8 +1,3 @@
-""" 
-@Author: Kumar Nityan Suman
-@Date: 2018-03-07 17:00:49
-@Last Modified time: 2019-01-19 16:31:49
-"""
 
 
 # Load packages
